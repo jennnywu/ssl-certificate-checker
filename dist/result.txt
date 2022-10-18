@@ -1,0 +1,8 @@
+SSL CERTIFICATE VALIDITY CHECKER
+*********************************
+https://expired.badssl.com/ is expired :(
+https://hellooooooooo.com does not exist :(
+
+Expired URLs: https://expired.badssl.com/
+Expiring URLs: 
+Nonexistent URLs: https://hellooooooooo.com

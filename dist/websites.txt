@@ -1,0 +1,8 @@
+google.com
+cibc.ca
+https://expired.badssl.com/
+facebook.com
+hellooooooooo.com
+stackoverflow.com
+pinterest.com
+youtube.com
