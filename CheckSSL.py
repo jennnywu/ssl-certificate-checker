@@ -18,7 +18,7 @@ dne = []
 now = datetime.datetime.today()
 
 print()
-print('SSL CERTIFICATE VALIDITY CHECKER', file=file_object)
+print('SSL CERTIFICATE VALIDITY CHECKER test', file=file_object)
 print("*********************************", file=file_object)
 print()
 
